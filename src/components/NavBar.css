@@ -1,0 +1,21 @@
+p {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.catcy {
+  border: 5px solid #ee4266;
+  padding: 3px;
+  border-radius: 50%;
+}
+
+.linky {
+  color: #ee4266;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.linky:hover {
+  background-color: #ffd23f;
+  color: #3bceac;
+}
